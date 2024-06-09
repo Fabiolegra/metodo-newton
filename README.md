@@ -20,7 +20,7 @@ Este projeto consiste em uma calculadora de raízes de funções utilizando o M�
 2. Acesse o diretório do projeto:
 
    ```
-   cd metodo-newto
+   cd metodo-newton
    ```
 
 3. Crie um arquivo `.env` na raiz do projeto e adicione a seguinte linha:
@@ -53,9 +53,9 @@ Este projeto consiste em uma calculadora de raízes de funções utilizando o M�
    http://localhost:5000
    ```
 
-## Como Contribuir
+## Contribuições
 
-Se você quiser contribuir para este projeto, fique a vontade.
+Se você deseja contribuir para este projeto, fique a vontade.
 
 ## Licença
 
